@@ -1,7 +1,6 @@
 // @author Renato Tadeu Theodoro Junior
 // @usp 11796750
 // @Title Funções - Maior, Menor, Média e Moda
-//
 #include <stdio.h>
 
 float media(int vector[10]){
